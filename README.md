@@ -41,7 +41,7 @@
 ### 安装与运行
 
 ```bash
-pip install pywin32
+pip install -r requirements.txt
 python 考勤表整理工具.py
 ```
 

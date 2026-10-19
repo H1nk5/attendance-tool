@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+from __future__ import annotations
+
 """
 考勤表整理工具
 功能：从总考勤表中按姓名列表筛选人员，生成独立考勤表
